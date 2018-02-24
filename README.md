@@ -5,6 +5,8 @@ The project contain a set of C++ functions that make it easy to search for file 
 
 See usage and demo in the source code.
 
+https://kyaw.xyz/2017/12/18/file-io-utility-library-cpp
+
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
